@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// https://leetcode.cn/problems/squares-of-a-sorted-array/
 func TestSquaresOfASortedArray(t *testing.T) {
 	nums := []int{-4, -1, 0, 3, 10}
 	a := sortedSquares(nums)
