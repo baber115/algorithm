@@ -1,4 +1,4 @@
-package double_pointer
+package day_five
 
 // https://leetcode.cn/problems/middle-of-the-linked-list/submissions/406048408/?envType=study-plan&id=suan-fa-ru-men&plan=algorithms&plan_progress=jgwt6s2&languageTags=golang
 /**

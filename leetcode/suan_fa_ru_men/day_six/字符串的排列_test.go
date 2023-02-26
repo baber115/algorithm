@@ -1,4 +1,4 @@
-package sliding_window
+package day_six
 
 import (
 	"fmt"

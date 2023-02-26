@@ -1,4 +1,4 @@
-package double_pointer
+package day_five
 
 /**
  * Definition for singly-linked list.

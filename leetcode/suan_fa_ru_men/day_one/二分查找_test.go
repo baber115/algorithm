@@ -1,4 +1,4 @@
-package binary_search
+package day_one
 
 import (
 	"fmt"

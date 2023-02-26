@@ -1,4 +1,4 @@
-package double_pointer
+package day_four
 
 import (
 	"fmt"
